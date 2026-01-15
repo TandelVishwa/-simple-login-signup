@@ -1,0 +1,83 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+}
+
+body {
+  min-height: 100vh;
+  background-image: url("img.jpeg"); 
+  background-size: cover;       
+  background-position: center;  
+  background-repeat: no-repeat; 
+  margin-top: 300px;
+  color: beige;
+
+}
+
+h1{
+    text-align: center;
+    margin-top: 80px;
+
+}
+
+label{
+    margin-left:37%;
+}
+.btn{
+    background-color: blueviolet;
+    width:20%; 
+    color: aliceblue;
+    margin-left: 40%;
+}
+
+#exampleInputEmail1{
+    width: 27%;
+    margin-left: 37%;
+}
+
+#exampleInputEmail2{
+    width: 27%;
+    margin-left: 37%;
+}
+
+#exampleInputPassword1{
+    width: 27%;
+    margin-left: 37%;
+}
+
+#one{
+    color: blueviolet;
+    text-decoration: none;
+    margin-left: 37%;
+}
+
+.next{
+    margin-left: 37%;
+}
+
+.btn:hover{
+    background-color:darkviolet;
+    transform: scale(1.1);
+}
+
+.img{
+   width: 30px;
+   height: 30px;
+   margin: 5px;
+   display: inline-block;
+
+}
+
+.container{
+    margin-left: 44%;
+}
+
+.img:hover{
+    transform: scale(1.1);
+     box-shadow: 2px 3px 5px #1bd760;
+}
+
+#two{
+    color: blueviolet;
+    margin-left: 53%;
+    text-decoration: none;
+}
